@@ -1,2 +1,3 @@
 #!bin/bash
-sudo mkdir --mode=751 my_dir \n
+mkdir --mode=751 my_dir
+
