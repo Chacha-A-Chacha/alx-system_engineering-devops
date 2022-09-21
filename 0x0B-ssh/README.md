@@ -55,4 +55,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 `~/.ssh/holberton` and to refuse authentication using a password.
 
 * **4. Client configuration file (w/ Puppet)**
-  * [100-puppet_ssh_config.pp](./100-puppet_ssh_config.pp)
+  * [100-puppet_ssh_config.pp](./100-puppet_ssh_config.pp) 
