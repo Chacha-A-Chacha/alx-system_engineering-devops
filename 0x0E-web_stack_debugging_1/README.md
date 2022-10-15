@@ -4,7 +4,16 @@
 For this project, we expect you to look at these concepts:
 
 * [Network basics]()
-* [Web stack debugging]()
+* [Web stack debugging](https://github.com/Chacha-A-Chacha/alx-system_engineering-devops/tree/master/0x13-firewall#intro)
+
+## Network basics
+
+Networking is a big part of what made computers so powerful and why the Internet exists. It allows machines to communicate with each other.
+
+* [What is a protocol](https://www.techtarget.com/searchnetworking/definition/protocol)
+* [What is an IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)
+* [What is TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP)
+* [What is an Internet Protocol (IP) port?](https://www.lifewire.com/port-numbers-on-computer-networks-817939)
 
 ## Tasks :page_with_curl:
 

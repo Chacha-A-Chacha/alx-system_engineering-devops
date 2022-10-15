@@ -3,7 +3,7 @@
 ## *Concepts*
 For this project, we expect you to look at this concept:
 
-* [Web stack debugging](https://github.com/Chacha-A-Chacha/alx-system_engineering-devops/blob/master/0x12-web_stack_debugging_2/README.md)
+* [Web stack debugging](https://github.com/Chacha-A-Chacha/alx-system_engineering-devops/tree/master/0x13-firewall#intro)
 
 This was the third in a series of web stack debugging projects. In these
 projects, I was given broken/bugged webstacks in isolated containers,
